@@ -29,8 +29,6 @@ describe('User Registration on Axate', () => {
         page.selectMarketingOption('publisher_marketing_offers');
         page.selectMarketingOption('axate_marketing');
 
-
-
         // Click "Continue" to the payment selection
         cy.get('button').contains('Continue').click();
 
