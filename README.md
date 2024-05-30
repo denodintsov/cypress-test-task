@@ -9,7 +9,7 @@ This repository contains the Cypress test for the "Cypress Test Task" project.
 	•	Please see the video of the feature here: https://www.loom.com/share/b77861c485f649f7bf94662f8a4a1469
 
 	•	The happy path is:
-Feature: User Registration on Axate Scenario Outline:
+```Feature: User Registration on Axate Scenario Outline:
 Registering a new user on Staging Site Axate Given the user is on the article page at https://yrk.branch-master.axate.io/articles/1
 When the user clicks on "Get a day pass", yellow button, inside the article
 And the user fills in a random email address
