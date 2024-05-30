@@ -43,13 +43,13 @@ Follow these steps to set up the project locally:
 2. **Install Dependencies**
 ```bash
     npm install
-
+```
 ## Running Tests
 
 To run the tests using Cypress, execute the following command:
 ```bash
 npx cypress open
-
+```
 ## Test Structure
 The tests are structured as follows:
 
