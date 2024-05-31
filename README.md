@@ -6,6 +6,8 @@ This repository contains the Cypress test for the "Cypress Test Task" project.
 
 	•	Please write a test to test the happy path. 
 
+  	•	Please do not spend more than an hour on this task. 
+
 	•	Please see the video of the feature here: https://www.loom.com/share/b77861c485f649f7bf94662f8a4a1469
 
 	•	The happy path is:
